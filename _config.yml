@@ -2,6 +2,9 @@
 title: Joey Burzynski
 timezone: America/New_York
 collections:
+  view:
+    title: Latest
+    output: true
   posts:
     title: Posts
     output: true
